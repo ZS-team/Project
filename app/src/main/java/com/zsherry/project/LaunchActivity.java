@@ -37,15 +37,15 @@ public class LaunchActivity extends AppCompatActivity {
         mCstToolBar.setCenter("头条");
         mButtonList = new ArrayList<>();
         mButtonList.add("最新");
-        mButtonList.add("11");
-        mButtonList.add("最新22");
-        mButtonList.add("最新33");
-        mButtonList.add("最新44");
-        mButtonList.add("最新55");
-        mButtonList.add("最新66");
-        mButtonList.add("最新777");
-        mButtonList.add("最新88");
-        mButtonList.add("最新99");
+        mButtonList.add("新闻");
+        mButtonList.add("科技");
+        mButtonList.add("互联网");
+        mButtonList.add("国内");
+        mButtonList.add("国际");
+        mButtonList.add("军事");
+        mButtonList.add("娱乐");
+        mButtonList.add("游戏");
+        mButtonList.add("视频");
 
         FirtFragment firtFragment = new FirtFragment();
         SecondFragment secondFragment = new SecondFragment();
