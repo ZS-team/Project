@@ -18,7 +18,6 @@ import java.lang.ref.WeakReference;
  * @Description:
  */
 public class CenterImageSpan extends ImageSpan {
-    private String str = "abs";
 
     private WeakReference<Drawable> mDrawableRef;
 
