@@ -1,4 +1,4 @@
-package com.zsherry.project;
+﻿package com.zsherry.project;
 
 import android.content.Context;
 import android.graphics.Bitmap;
@@ -19,6 +19,8 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 public class CstTopBar extends RelativeLayout {
+
+    private String str = "ttt";
 
     private LinearLayout layout;
     private View view;
