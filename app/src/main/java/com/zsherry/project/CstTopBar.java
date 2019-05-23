@@ -20,6 +20,7 @@ import android.widget.TextView;
 
 public class CstTopBar extends RelativeLayout {
 
+    private String str = "abs";
     private LinearLayout layout;
     private View view;
     private Context context;
